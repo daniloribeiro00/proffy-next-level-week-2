@@ -1,2 +1,2 @@
 # Next-Level-Week-2
- Arquivos da Next Level Week #2 de Desenvolvimento Web com HTML, CSS e JavaScript.
+ Next Level Week #2 web development files with HTML, CSS and JavaScript.
