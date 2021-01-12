@@ -1,2 +1,2 @@
-# Next-Level-Week-2
- Next Level Week #2 web development files with HTML, CSS and JavaScript.
+# Proffy-Next-Level-Week-2
+ Next Level Week #2 project: Proffy, a online study platform.
