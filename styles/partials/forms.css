@@ -30,8 +30,7 @@
 	position: relative;
 }
 
-.input-block:focus-within::after,
-.textarea-block::focus-within::after {
+.input-block:focus-within::after {
 	content: '';
 	width: calc(100% - 3.2rem);
 	height: 2px;
@@ -39,4 +38,14 @@
 	position: absolute;
 	left: 1.6rem;
 	bottom: 0;
+}
+
+.textarea-block:focus-within::after {
+	content: '';
+	width: calc(100% - 3.2rem);
+	height: 2px;
+	background: var(--color-primary-light);
+	position: absolute;
+	left: 1.6rem;
+	bottom: 7px;
 }
