@@ -40,10 +40,10 @@ Database.then(async (db) => {
 	
 	// Consultar classes de um determinado proffy e dados do proffy
 	const selectedClassesAndProffys = await db.all(`
-	SELECT classes.*, proffys.*
-	FROM proffys JOIN classes
-	ON (classes.proffy_id = proffys.id)
-	WHERE classes.proffy_id = 1;
+		SELECT classes.*, proffys.*
+		FROM proffys JOIN classes
+		ON (classes.proffy_id = proffys.id)
+		WHERE classes.proffy_id = 1;
 	`);
 	// console.log(selectedClassesAndProffys);
 
@@ -53,8 +53,8 @@ Database.then(async (db) => {
 		FROM class_schedule
 		WHERE class_schedule.class_id = 1
 		AND class_schedule.weekday = 0
-		AND class_schedule.time_from <= 520
-		AND class_schedule.time_to > 520;
+		AND class_schedule.time_from <= 1300
+		AND class_schedule.time_to > 1300;
 	`);
 	console.log(selectedClassesSchedules);
 
