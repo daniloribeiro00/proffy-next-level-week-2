@@ -1,4 +1,4 @@
-<img style="max-width: 400px; padding: 20px 0; margin: 0px auto" src="./public/images/logo-purple.png">
+<img style="max-width: 300px; padding: 20px 0; margin: 0px auto" src="./public/images/logo-purple.png">
 
 <h1 style="font: 50px">Proffy: Next Level Week 2 </h1>
 
@@ -33,8 +33,8 @@
 
 <h1 style="font: 50px">Preview</h1>
 
-<img style="max-width: 500px;" src="./public/images/proffy-preview-web-home.png">
-<img style="max-width: 500px;" src="./public/images/proffy-preview-web-study.png">
+<img style="max-width: 400px;" src="./public/images/proffy-preview-web-home.png">
+<img style="max-width: 400px;" src="./public/images/proffy-preview-web-study.png">
 <br>
 <img style="max-width: 200px;" src="./public/images/proffy-preview-mobile-home.png">
 <br>
