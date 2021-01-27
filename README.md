@@ -39,7 +39,6 @@
 <img style="max-width: 200px;" src="./public/images/proffy-preview-mobile-home.png">
 <br>
 
-<br>
 <h1 style="font: 50px">Licença / License</h1>
 
 <a href="https://opensource.org/licenses/MIT">MIT License</a>
